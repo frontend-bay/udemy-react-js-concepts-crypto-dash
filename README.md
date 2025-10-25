@@ -1,16 +1,16 @@
 npm run dev
 
-concepts used in this project:
+# concepts used in this project:
 
-# http call using fetch
+## http call using fetch
 
-# use of useEffect
+## use of useEffect
 
-# routers
+## routers
 ```text
     npm i react-router
 ```
-# spinner
+## spinner
 
 ```text
     https://npm.io/package/react-spinners
